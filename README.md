@@ -8,7 +8,6 @@
     python entertainment_center.py
 
 ## About the Code
-No database is used for this project, you can update Movie data from
-entertainment_center.py with your favourites.
+- No database is used for this project, you can update Movie data from entertainment_center.py with your favourites.
 
-HTML related content can be found and altered from fresh_tomatoes.py.
+- HTML related content can be found and altered from fresh_tomatoes.py.
